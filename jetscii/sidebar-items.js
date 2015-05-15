@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["AsciiChars","Searches a string for a set of ASCII characters. Up to 8 characters may be used."],["AsciiCharsSearcher","An implementation of `Searcher` using `AsciiChars`"],["AsciiCharsWithFallback","Provides a hook for a user-supplied fallback implementation, used when the optimized instructions are not available."]]});
